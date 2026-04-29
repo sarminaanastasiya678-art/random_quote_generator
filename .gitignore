@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Проектные файлы (опционально)
+# quotes_history.json  # Раскомментируйте, если не хотите коммитить локальную историю
